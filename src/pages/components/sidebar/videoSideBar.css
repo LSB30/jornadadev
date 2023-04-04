@@ -9,3 +9,9 @@
   text-align: center;
   filter: invert(1);
 }
+
+@media only screen and (max-width: 440px) {
+  .video-sidebar {
+    top: 32%
+  }
+}
