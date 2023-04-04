@@ -1,0 +1,11 @@
+.video-sidebar {
+  position: absolute;
+  top: 40%;
+  right: 10px;
+}
+
+.sidebar-options {
+  padding: 20px;
+  text-align: center;
+  filter: invert(1);
+}
